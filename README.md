@@ -1,2 +1,2 @@
 # demo
-Testing git stash
+Testing git stash from remote
